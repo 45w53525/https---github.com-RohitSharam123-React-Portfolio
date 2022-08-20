@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.img {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.body {
+
+    margin-top: 1px;
+
+}
+
+.table {
+    padding-top: 3.75rem;
+}
+
+.thank {
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 2rem;
+    color: black;
+}

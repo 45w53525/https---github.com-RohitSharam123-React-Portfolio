@@ -1,0 +1,27 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar{
+text-decoration: none;
+margin-right: 30px;
+margin-left: 20px;
+text-align: center;
+}
+
+#link{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+     font-family: 'Alfa Slab One', cursive;
+}
+
+.body{
+    background-color: #212529;
+}
